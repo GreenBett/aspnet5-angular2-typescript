@@ -33,7 +33,7 @@ namespace PhotoGallery.Infrastructure.Core
             {
                 if (!context.User.Identities.Any(identity => identity.IsAuthenticated))
                 {
-                    Claim _claim = new Claim(ClaimTypes.Role, "Admin", ClaimValueTypes.String, "chsakell");
+                    Claim _claim = new Claim(ClaimTypes.Role, "Admin", ClaimValueTypes.String, "GreenBett");
                     await context.Authentication.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme,
                         new ClaimsPrincipal(new ClaimsIdentity(new[] { _claim }, CookieAuthenticationDefaults.AuthenticationScheme)));
                 }

@@ -3,7 +3,7 @@
   "name": "photogallery",
   "author": "Chris Sakellarios",
   "license": "MIT",
-  "repository": "https://github.com/chsakell/aspnet5-angular2-typescript",
+  "repository": "https://github.com/GreenBett/aspnet5-angular2-typescript",
   "private": true,
   "dependencies": {
     "@angular/common": "4.0.2",

@@ -1,6 +1,6 @@
 # ASP.NET Core, Angular 4 & TypeScript
 Blog post:<a href="http://wp.me/p3mRWu-11L" target="_blank">Cross-platform Single Page Applications using ASP.NET Core, Angular 2 and Typescript</a> <br/><br/>
-<a href="http://wp.me/p3mRWu-11L" rel="attachment wp-att-3961" target="_blank"><img src="https://chsakell.files.wordpress.com/2016/05/aspcorerc2.png?w=700&amp;h=355" alt="aspnet5-agnular2-03" width="700" height="355" class="alignnone size-full wp-image-3961"></a>
+<a href="http://wp.me/p3mRWu-11L" rel="attachment wp-att-3961" target="_blank"><img src="https://GreenBett.files.wordpress.com/2016/05/aspcorerc2.png?w=700&amp;h=355" alt="aspnet5-agnular2-03" width="700" height="355" class="alignnone size-full wp-image-3961"></a>
 
 <h3>Frameworks - Tools - Libraries</h3>
 <ul>
@@ -47,7 +47,7 @@ Blog post:<a href="http://wp.me/p3mRWu-11L" target="_blank">Cross-platform Singl
 <li>dotnet ef database update</li>
 </ol>
 </li>
-<li>Build your application and run it. You can use <i>username:</i> <strong>chsakell</strong> and <i>password:</i> <strong>photogallery</strong> to sign in or register a new user.</li>
+<li>Build your application and run it. You can use <i>username:</i> <strong>GreenBett</strong> and <i>password:</i> <strong>photogallery</strong> to sign in or register a new user.</li>
 </ol>
 
 <h3>Installation instructions - Part 2 (Run application in Visual Studio Code, recommended for Linux/MAC users)</h3>
@@ -81,40 +81,11 @@ Blog post:<a href="http://wp.me/p3mRWu-11L" target="_blank">Cross-platform Singl
 </ul>
 </li>
 <li>Open a browser and navigate to http://localhost:5000/</li>
-<li>You can use <i>username:</i> <strong>chsakell</strong> and <i>password:</i> <strong>photogallery</strong> to sign in or register a new user.</li>
+<li>You can use <i>username:</i> <strong>GreenBett</strong> and <i>password:</i> <strong>photogallery</strong> to sign in or register a new user.</li>
 </ol>
 
 <h2>Donations</h2>
 For being part of open source projects and documenting my work here and on there. I really do not charge anything. I try to avoid any type of ads also.
 
-If you think that any information you obtained here is worth of some money and are willing to pay for it, feel free to send any amount through paypal.
-
-<table>
-<tr><th>Paypal</th></tr>
-<tbody>
-<tr>
-<td><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=chsakell%40gmail%2ecom&lc=US&item_name=Donation%20for%20chsakell%27s%20blog&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" style="text-align:center;display:block">
-<img src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png" alt="Buy me a beer" />
-</a></td>
-</tr>
-</tbody>
-</table>
-
-<h3 style="font-weight:normal;">Follow chsakell's Blog</h3>
-<table id="gradient-style" style="box-shadow:3px -2px 10px #1F394C;font-size:12px;margin:15px;width:290px;text-align:left;border-collapse:collapse;" summary="">
-<thead>
-<tr>
-<th style="width:130px;font-size:13px;font-weight:bold;padding:8px;background:#1F1F1F repeat-x;border-top:2px solid #d3ddff;border-bottom:1px solid #fff;color:#E0E0E0;" align="center" scope="col">Facebook</th>
-<th style="font-size:13px;font-weight:bold;padding:8px;background:#1F1F1F repeat-x;border-top:2px solid #d3ddff;border-bottom:1px solid #fff;color:#E0E0E0;" align="center" scope="col">Twitter</th>
-</tr>
-</thead>
-<tfoot>
-<tr>
-<td colspan="4" style="text-align:center;">Microsoft Web Application Development</td>
-</tr>
-</tfoot>
-</tr>
-</tbody>
-</table>
 <h2>License</h2>
-Code released under the <a href="https://github.com/chsakell/aspnet5-angular2-typescript/blob/master/licence" target="_blank"> MIT license</a>.
+Code released under the <a href="https://github.com/GreenBett/aspnet5-angular2-typescript/blob/master/licence" target="_blank"> MIT license</a>.

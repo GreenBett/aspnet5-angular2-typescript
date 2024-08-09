@@ -98,19 +98,19 @@ namespace PhotoGallery.Infrastructure
             {
                 context.Users.Add(new User()
                 {
-                    Email = "chsakells.blog@gmail.com",
-                    Username = "chsakell",
+                    Email = "green95551.blog@protonmail.com",
+                    Username = "GreenBett",
                     HashedPassword = "9wsmLgYM5Gu4zA/BSpxK2GIBEWzqMPKs8wl2WDBzH/4=",
                     Salt = "GTtKxJA6xJuj3ifJtTXn9Q==",
                     IsLocked = false,
                     DateCreated = DateTime.Now
                 });
 
-                // create user-admin for chsakell
+                // create user-admin for GreenBett
                 context.UserRoles.AddRange(new UserRole[] {
                 new UserRole() {
                     RoleId = 1, // admin
-                    UserId = 1  // chsakell
+                    UserId = 1  // GreenBett
                 }
             });
                 context.SaveChanges();
