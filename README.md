@@ -1,6 +1,4 @@
 # ASP.NET Core, Angular 4 & TypeScript
-[![Build status](https://ci.appveyor.com/api/projects/status/github/chsakell/aspnet5-angular2-typescript?branch=master&svg=true)](https://ci.appveyor.com/project/chsakell/aspnet5-angular2-typescript/branch/master) [![License](https://img.shields.io/github/license/chsakell/aspnet5-angular2-typescript.svg)](https://github.com/chsakell/aspnet5-angular2-typescript/blob/master/licence)
-
 Blog post:<a href="http://wp.me/p3mRWu-11L" target="_blank">Cross-platform Single Page Applications using ASP.NET Core, Angular 2 and Typescript</a> <br/><br/>
 <a href="http://wp.me/p3mRWu-11L" rel="attachment wp-att-3961" target="_blank"><img src="https://chsakell.files.wordpress.com/2016/05/aspcorerc2.png?w=700&amp;h=355" alt="aspnet5-agnular2-03" width="700" height="355" class="alignnone size-full wp-image-3961"></a>
 
@@ -85,10 +83,9 @@ Blog post:<a href="http://wp.me/p3mRWu-11L" target="_blank">Cross-platform Singl
 <li>Open a browser and navigate to http://localhost:5000/</li>
 <li>You can use <i>username:</i> <strong>chsakell</strong> and <i>password:</i> <strong>photogallery</strong> to sign in or register a new user.</li>
 </ol>
-<h2>Microsoft Azure Deployment</h2>
-Learn how to deploy the PhotoGallery app on Microsoft Azure <a href="http://wp.me/p3mRWu-1bi" target="_blank">here</a>.
+
 <h2>Donations</h2>
-For being part of open source projects and documenting my work here and on <a href="https://chsakell.com">chsakell's blog</a> I really do not charge anything. I try to avoid any type of ads also.
+For being part of open source projects and documenting my work here and on there. I really do not charge anything. I try to avoid any type of ads also.
 
 If you think that any information you obtained here is worth of some money and are willing to pay for it, feel free to send any amount through paypal.
 
@@ -116,14 +113,6 @@ If you think that any information you obtained here is worth of some money and a
 <td colspan="4" style="text-align:center;">Microsoft Web Application Development</td>
 </tr>
 </tfoot>
-<tbody>
-<tr>
-<td style="padding:8px;border-bottom:1px solid #fff;color:#FFA500;border-top:1px solid #fff;background:#1F394C repeat-x;">
-<a href="https://www.facebook.com/chsakells.blog" target="_blank"><img src="https://chsakell.files.wordpress.com/2015/08/facebook.png?w=120&amp;h=120&amp;crop=1" alt="facebook" width="120" height="120" class="alignnone size-opti-archive wp-image-3578"></a>
-</td>
-<td style="padding:8px;border-bottom:1px solid #fff;color:#FFA500;border-top:1px solid #fff;background:#1F394C repeat-x;">
-<a href="https://twitter.com/chsakellsBlog" target="_blank"><img src="https://chsakell.files.wordpress.com/2015/08/twitter-small.png?w=120&amp;h=120&amp;crop=1" alt="twitter-small" width="120" height="120" class="alignnone size-opti-archive wp-image-3583"></a>
-</td>
 </tr>
 </tbody>
 </table>
